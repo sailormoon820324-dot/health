@@ -1,0 +1,6 @@
+{
+  "name": "Kinetic Telemetry 건강관리",
+  "description": "실시간 오늘 걸음수, 수면 시간, 칼로리 소모 및 생체 지표 모니터링 헬스케어 대시보드",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
